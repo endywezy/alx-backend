@@ -3,8 +3,8 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
-msgid "home_title"
-msgstr "Bienvenue chez Holberton"
+msgid ""
+msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-08-28 03:59+0100\n"
@@ -20,9 +20,9 @@ msgstr "Bienvenue chez Holberton"
 
 #: 3-app.py:32
 msgid "home_title"
-msgstr ""
+msgstr "Bienvenue chez Holberton"
 
 #: 3-app.py:33
 msgid "home_header"
-msgstr ""
+msgstr "Bonjour monde!"
 
